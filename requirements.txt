@@ -1,4 +1,18 @@
 discord
+random
 asyncio
-youtube-dl
-requests
+functools
+sys
+os
+when_mentioned
+time as tm
+colorama
+Member
+urllib.request
+Figlet
+cycle
+get
+tasks
+DoubleTable
+SingleTable
+has_permissions, MissingPermissions
