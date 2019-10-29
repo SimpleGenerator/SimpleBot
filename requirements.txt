@@ -5,7 +5,6 @@ functools
 sys
 os
 when_mentioned
-time as tm
 colorama
 Member
 urllib.request
