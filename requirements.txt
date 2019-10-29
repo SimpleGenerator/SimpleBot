@@ -1,6 +1,5 @@
 discord
 asyncio
-functools
 sys
 os
 when_mentioned
