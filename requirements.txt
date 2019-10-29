@@ -14,4 +14,3 @@ get
 tasks
 DoubleTable
 SingleTable
-has_permissions, MissingPermissions
