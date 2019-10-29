@@ -1,14 +1,5 @@
 discord
 asyncio
-sys
-os
-when_mentioned
-colorama
 Member
-urllib.request
-Figlet
 cycle
-get
 tasks
-DoubleTable
-SingleTable
